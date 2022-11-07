@@ -1,6 +1,11 @@
-This is my personal toolkit where i list all my ressources :
+This is my personal toolkit where i list all the ressources i think usefull :
 
+"Not to reinvent the wheel"
+
+- Responsive navbar : https://www.w3schools.com/howto/howto_css_navbar_icon.asp
 - Create an accordeon : https://www.w3schools.com/howto/howto_js_accordion.asp
+- Slideshow : https://www.w3schools.com/howto/howto_js_slideshow.asp
+- Responsive image grid : https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
 
 <!--
 
