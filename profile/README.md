@@ -7,6 +7,10 @@ This is my personal toolkit where i list all the ressources i think usefull :
 - Slideshow : https://www.w3schools.com/howto/howto_js_slideshow.asp
 - Responsive image grid : https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
 
+System :
+
+- Create a VM : https://techsupportwhale.com/not-in-a-hypervisor-partition/
+
 <!--
 
 **Here are some ideas to get you started:**
